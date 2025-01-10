@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "org.nt.name",
+    "type": "java.lang.String",
+    "description": "A description for 'org.nt.name'"
+  },
+  {
+    "name": "org.nt.size",
+    "type": "java.lang.String",
+    "description": "A description for 'org.nt.size'"
+  },
+  {
+    "name": "org.nt.email",
+    "type": "java.lang.String",
+    "description": "A description for 'org.nt.email'"
+  },
+  {
+    "name": "org.nt.location",
+    "type": "java.lang.String",
+    "description": "A description for 'org.nt.location'"
+  }
+]}
